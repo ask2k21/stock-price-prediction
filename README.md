@@ -1,2 +1,6 @@
 # stock-price-prediction
-using regression model topredict the stock prices
+using a Regression model to predict the stock prices
+</br>
+Author : Srihith Gangishetti
+
+
